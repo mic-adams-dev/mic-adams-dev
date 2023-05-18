@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mic-adams-dev
-- 👀 I’m interested in Rust, guitar and overall becoming a better developer
-- 🌱 I’m currently learning Next.JS
+- 👀 I’m interested in Rust, Next.js and overall becoming a better developer
 - 📫 How to reach me
   - [LinkedIn](https://www.linkedin.com/in/michael-adams-644b7a274/)
   - [Email](mailto:kirosaima@protonmail.com)
